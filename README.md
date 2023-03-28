@@ -3,7 +3,7 @@
 
 โหลดไฟล์เพิ่มเติมอีกส่วนได้ที่นี่ https://drive.google.com/drive/folders/1GQQnr1ZHeUWvxWH-goDbJN1HwQ-9N7NC?usp=sharing 
 
-วิธีการนำไฟล์ Project ไปใช้
+วิธีการนำไฟล์ Project ไปใช้<br />
 1.ทำการโหลดไฟล์จาก google drive ที่ชื่อ Assets และ Library
 2.ทำการโหลดไฟล์ทั้งหมดบน Git แบบ Zip
 3.นำไฟล์ที่ได้โหลดมารวมใส่เข้าไปในไฟล์ Death-Tag
